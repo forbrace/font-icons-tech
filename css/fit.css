@@ -231,3 +231,34 @@
 .fit-gulp:before {
   content: "\f016";
 }
+
+.fit-phonelink:before {
+  content: "\f017";
+}
+.fit-code:before {
+  content: "\f018";
+}
+.fit-translate:before {
+  content: "\f019";
+}
+.fit-settings-app:before {
+  content: "\f01a";
+}
+.fit-settings:before {
+  content: "\f01b";
+}
+.fit-network-check:before {
+  content: "\f01c";
+}
+.fit-smartphone:before {
+  content: "\f01d";
+}
+.fit-web:before {
+  content: "\f01e";
+}
+.fit-launch:before {
+  content: "\f020";
+}
+.fit-dns:before {
+  content: "\f021";
+}
