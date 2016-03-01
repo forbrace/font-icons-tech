@@ -3,6 +3,10 @@
   "homepage": "https://github.com/forbrace/forbrace.github.io",
   "description": "Font Icons Tech",
   "main": "",
+  "keywords": [
+    "font",
+    "icons"
+  ],
   "moduleType": [],
   "license": "MIT",
   "version": "1.0.0"
