@@ -262,3 +262,6 @@
 .fit-dns:before {
   content: "\f021";
 }
+.fit-cloud:before {
+  content: "\f022";
+}
